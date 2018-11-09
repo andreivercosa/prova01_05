@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{347B25D8-333E-4BAB-8155-F5C3363CC708}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova05_sistematabuada/Program.cs">
+    <Files>
+      <File FileName="prova05_sistematabuada/Program.cs" Line="72" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.prova05__sistematabuada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

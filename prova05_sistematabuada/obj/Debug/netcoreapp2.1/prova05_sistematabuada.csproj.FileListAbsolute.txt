@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/bin/Debug/netcoreapp2.1/prova05_sistematabuada.deps.json
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/bin/Debug/netcoreapp2.1/prova05_sistematabuada.runtimeconfig.json
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/bin/Debug/netcoreapp2.1/prova05_sistematabuada.runtimeconfig.dev.json
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/bin/Debug/netcoreapp2.1/prova05_sistematabuada.dll
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/bin/Debug/netcoreapp2.1/prova05_sistematabuada.pdb
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.AssemblyInfo.cs
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.dll
+/Users/aluno/Projects/prova05_sistematabuada/prova05_sistematabuada/obj/Debug/netcoreapp2.1/prova05_sistematabuada.pdb
